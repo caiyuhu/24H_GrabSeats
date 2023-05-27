@@ -1,0 +1,9 @@
+# 学号
+username: ''
+# 密码
+password: ''
+# seat_id格式 A-08 B-003 C-018
+seat_id: 'A-12'
+# 时间格式4位 09:00
+startTime: "09:00"
+endTime: "22:00"
